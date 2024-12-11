@@ -20,6 +20,7 @@ Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.z
 2. If he trusts you, he will tell you
 3. If not, then womp womp.
 4. Or try Alex.
+5. W FOR REAL.//
 
 ## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder of the apk ##
 For WFR ONLY
