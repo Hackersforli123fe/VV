@@ -11,16 +11,17 @@ iOS : https://www.mediafire.com/file/ty7m3dc6ogyfhsb/BSDS_V42.ipa/file
 Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.zip
 
 ## Requirements: ##
-1. a brain...
+1. a life...
+2. a brain.......
+3. skill, or you are a terrible human....
 
-## How to play BSDS: ##
-1. download server and apk
-2. install the apk
-3. download pydroid (if you want to run from the phone)
-4. open in pydroid Core.py located in the server folder
-5. click on the run button
-6. now open the game and play
+## How to play Brawl stars: ##
+1. Talk to Rivan
+2. If he trusts you, he will tell you
+3. If not, then womp womp.
+4. Or try Alex.
 
 ## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder of the apk ##
+For WFR ONLY
 
 ![Screenshot_20220302-180739_BSDS_V42](https://user-images.githubusercontent.com/52799759/156474426-399ea814-9727-4a49-a1f8-2f95e027309c.png)
